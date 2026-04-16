@@ -8,7 +8,6 @@ Architecture diagrams and technical design documentation from real projects and 
 
 | Design | Type | Description |
 |--------|------|-------------|
-| [Crypto IRA Launch](./crypto-ira-launch.md) | Real project | End-to-end system design for a market-first hybrid Crypto IRA at Crypto.com |
 | [Job Search Bot](./job-search-bot-architecture.md) | Personal tool | Automated job search pipeline with AI scoring |
 | [PRD Review Tool](./prd-review-tool-architecture.md) | Personal tool | GitOps-based PRD review automation |
 
