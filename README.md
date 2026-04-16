@@ -29,7 +29,6 @@ Architecture diagrams and design thinking from real projects and case studies.
 
 | Design | Context |
 |--------|---------|
-| [Crypto IRA Launch](./system-design/crypto-ira-launch.md) | End-to-end system for a market-first hybrid Crypto IRA — cross-functional delivery across Legal, Tax, Engineering, Marketing |
 | [Job Search Bot Architecture](./system-design/job-search-bot-architecture.md) | Full system diagram of the automated job search pipeline |
 | [PRD Review Tool Architecture](./system-design/prd-review-tool-architecture.md) | GitOps-based PRD review flow with AI integration |
 
