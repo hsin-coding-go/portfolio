@@ -55,4 +55,6 @@ Led end-to-end delivery of Taiwan-specific features and localization:
 
 **Press Coverage:**
 - [臺北市教育局與 iamschool 合作新聞稿](https://www.doe.gov.taipei/News_Content.aspx?n=B3DDF0458F0FFC11&sms=72544237BBE4C5F6&s=41D9FBDEE5C34359) — Taipei City Government, 2017
-- [iamschool 登台報導 — 數位時代](https://www.bnext.com.tw/article/38841/BN-2016-03-04-171656-184) — Business Next, 2016
+- [推動電子聯絡簿 教育局與 iamschool 簽約](https://news.ltn.com.tw/news/life/breakingnews/1966173) — 自由時報, 2017
+- [iamschool 登台報導](https://www.bnext.com.tw/article/38841/BN-2016-03-04-171656-184) — 數位時代, 2016
+- [iamschool 台灣最大教育 App 功能介紹](https://www.edtech.tw/posts/iam-school%E8%87%BA%E7%81%A3%E6%9C%80%E5%A4%A7%E6%95%99%E8%82%B2-app%EF%BC%8C%E6%8F%90%E4%BE%9B%E5%8D%B3%E6%99%82%E5%AD%B8%E6%A0%A1%E6%95%99%E8%82%B2%E4%BF%A1%E6%81%AF%EF%BC%81) — edtech.tw
