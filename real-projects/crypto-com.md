@@ -56,3 +56,20 @@ Key contributions:
 **Official Resources:**
 - [What Is the Crypto.com Rewards Hub?](https://crypto.com/en/university/what-is-the-crypto-com-rewards-hub)
 - [Rewards Hub Help Center](https://help.crypto.com/en/articles/5555786-what-is-rewards-hub)
+
+---
+
+## Crypto University
+
+**Role:** Mobile Engineer
+**Scope:** iOS feature development, WebView integration, JavaScript-to-native bridge
+
+An in-app educational platform where users learn about crypto through articles, quizzes, and interactive modules — and earn Diamond rewards upon course completion.
+
+Key contributions:
+- Owned iOS development of the Crypto University feature, embedding web-based content via React Native WebView
+- Implemented a JavaScript-to-native bridge to intercept user interactions and trigger native navigation, delivering a seamless hybrid learning experience without duplicating content across platforms
+
+**Official Resources:**
+- [Crypto University](https://crypto.com/en/university)
+- [In-app University Help Center](https://help.crypto.com/en/articles/6600026-crypto-com-in-app-university)
