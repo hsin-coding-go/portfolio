@@ -37,8 +37,7 @@ Key contributions:
 - Refactored system architecture using modularity and separation of concerns to improve maintainability
 
 **Official Resources:**
-- [Product Announcement](https://crypto.com/en/product-news/cryptobaskets)
-- [Learn: What Are Crypto Baskets?](https://crypto.com/us/crypto/learn/what-are-crypto-baskets-and-how-do-they-work)
+- [What Are Crypto Baskets?](https://crypto.com/us/crypto/learn/what-are-crypto-baskets-and-how-do-they-work)
 
 ---
 
@@ -55,5 +54,5 @@ Key contributions:
 - Extended the system with a Badge mechanic to layer deeper gamification
 
 **Official Resources:**
-- [Rewards Hub Announcement](https://crypto.com/en/product-news/rewards-hub)
-- [Badges Airdrop Announcement](https://crypto.com/us/product-news/missions-badges)
+- [What Is the Crypto.com Rewards Hub?](https://crypto.com/en/university/what-is-the-crypto-com-rewards-hub)
+- [Rewards Hub Help Center](https://help.crypto.com/en/articles/5555786-what-is-rewards-hub)

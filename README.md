@@ -30,8 +30,8 @@ Products I shipped at Crypto.com — with public press coverage.
 | Product | Role | Coverage |
 |---------|------|---------|
 | [Crypto IRA](./real-projects/crypto-com.md#crypto-ira) | TPM — cross-functional delivery across Legal, Tax, Engineering | [The Block](https://www.theblock.co/post/392024/crypto-com-launches-ira-product-combining-stocks-and-crypto) · [PR Newswire](https://www.prnewswire.com/news-releases/introducing-cryptocom-iras-the-first-ever-crypto-native-mixed-asset-retirement-account-offering-302701284.html) |
-| [Crypto Basket](./real-projects/crypto-com.md#crypto-basket) | TPM — delivery, A/B testing, architecture alignment | [Official Announcement](https://crypto.com/en/product-news/cryptobaskets) |
-| [Rewards & Missions](./real-projects/crypto-com.md#rewards--missions) | Mobile Engineer — gamification system, Badge mechanic | [Rewards Hub](https://crypto.com/en/product-news/rewards-hub) · [Badges](https://crypto.com/us/product-news/missions-badges) |
+| [Crypto Basket](./real-projects/crypto-com.md#crypto-basket) | TPM — delivery, A/B testing, architecture alignment | [What Are Crypto Baskets?](https://crypto.com/us/crypto/learn/what-are-crypto-baskets-and-how-do-they-work) |
+| [Rewards & Missions](./real-projects/crypto-com.md#rewards--missions) | Mobile Engineer — gamification system, Badge mechanic | [Rewards Hub](https://crypto.com/en/university/what-is-the-crypto-com-rewards-hub) |
 
 ### System Design
 Architecture diagrams and design thinking from real projects and case studies.
