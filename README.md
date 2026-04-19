@@ -24,6 +24,15 @@ Self-built automation tools that apply AI to real PM and job-search workflows.
 | [Job Search Bot](./ai-tools/job-search-bot.md) | Searches 3 job platforms daily, AI-scores each role against my profile, sends personalized email digest | Python · Gemini AI · Gmail API · GitHub Actions |
 | [PRD Review Tool](./ai-tools/prd-review-tool.md) | Auto-reviews PRD documents using AI, opens PR with structured feedback | Python · Gemini AI · GitHub Actions · GitOps |
 
+### Real-World Delivery
+Products I shipped at Crypto.com — with public press coverage.
+
+| Product | Role | Coverage |
+|---------|------|---------|
+| [Crypto IRA](./real-projects/crypto-com.md#crypto-ira) | TPM — cross-functional delivery across Legal, Tax, Engineering | [The Block](https://www.theblock.co/post/392024/crypto-com-launches-ira-product-combining-stocks-and-crypto) · [PR Newswire](https://www.prnewswire.com/news-releases/introducing-cryptocom-iras-the-first-ever-crypto-native-mixed-asset-retirement-account-offering-302701284.html) |
+| [Crypto Basket](./real-projects/crypto-com.md#crypto-basket) | Mobile Engineer — transaction optimization, A/B testing | [Official Announcement](https://crypto.com/en/product-news/cryptobaskets) |
+| [Rewards & Missions](./real-projects/crypto-com.md#rewards--missions) | Mobile Engineer — gamification system, Badge mechanic | [Official Announcement](https://crypto.com/us/product-news/crypto-com-app-launches-missions) |
+
 ### System Design
 Architecture diagrams and design thinking from real projects and case studies.
 
