@@ -59,6 +59,24 @@ Key contributions:
 
 ---
 
+## Crypto Pay
+
+**Role:** Mobile Engineer
+**Scope:** iOS module development
+
+A crypto payment solution enabling users to spend crypto at merchants worldwide, with QR code scanning, seamless checkout, and CRO reward integration.
+
+Key contributions:
+- Developed the QR code scanning module for merchant payment initiation on iOS
+- Built the end-to-end checkout flow UI, from payment confirmation to transaction completion
+- Implemented payment interface screens with real-time token balance and reward display
+
+**Official Resources:**
+- [Crypto.com Pay](https://crypto.com/en/pay)
+- [Pay Help Center](https://help.crypto.com/en/articles/5312984-crypto-com-pay-pay-checkout)
+
+---
+
 ## Market Insights
 
 **Role:** Mobile Engineer
