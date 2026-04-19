@@ -59,6 +59,19 @@ Key contributions:
 
 ---
 
+## Market Insights
+
+**Role:** Mobile Engineer
+**Scope:** iOS architecture design, feature development
+
+A market intelligence tab within the Crypto.com App that aggregates token unlock events, news feeds, and trading signals — giving users a unified view of market trends and on-chain activity in a single screen.
+
+Key contributions:
+- Designed the overall iOS architecture for the Market Insights feature
+- Built the unified feed integrating token unlock countdowns, news, and signal (token trending based on rolling 7-day trading volume)
+
+---
+
 ## Crypto University
 
 **Role:** Mobile Engineer
