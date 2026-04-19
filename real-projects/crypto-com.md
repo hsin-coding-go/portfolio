@@ -27,8 +27,8 @@ Key contributions:
 
 ## Crypto Basket
 
-**Role:** Mobile Engineer  
-**Scope:** iOS feature development, A/B testing, system architecture
+**Role:** Technical Project Manager  
+**Scope:** Cross-functional delivery, A/B testing, system architecture alignment
 
 A diversification feature allowing users to invest in multiple tokens in a single transaction, with optional auto-rebalancing and recurring buy (DCA) support.
 
@@ -38,7 +38,7 @@ Key contributions:
 
 **Official Resources:**
 - [Product Announcement](https://crypto.com/en/product-news/cryptobaskets)
-- [Feature Overview](https://crypto.com/en/app/cryptobasket/)
+- [Learn: What Are Crypto Baskets?](https://crypto.com/us/crypto/learn/what-are-crypto-baskets-and-how-do-they-work)
 
 ---
 
@@ -55,5 +55,5 @@ Key contributions:
 - Extended the system with a Badge mechanic to layer deeper gamification
 
 **Official Resources:**
-- [Missions Launch Announcement](https://crypto.com/us/product-news/crypto-com-app-launches-missions)
-- [Rewards Hub Overview](https://crypto.com/en/product-news/rewards-hub)
+- [Rewards Hub Announcement](https://crypto.com/en/product-news/rewards-hub)
+- [Badges Airdrop Announcement](https://crypto.com/us/product-news/missions-badges)
